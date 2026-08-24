@@ -11,4 +11,6 @@ This website will document my learning, debugging process, and projects througho
 
 ## Portfolio
 
-More coming soon!
+- [Reflections](reflections.md) 
+- [Projects](projects.md) 
+- [Debugging Journal](debugging.md)
